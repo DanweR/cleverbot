@@ -1,8 +1,5 @@
 # Cleverbot
-## API tests for Taxamo Transaction API
-
-### Endpoint docs:
-https://www.taxamo.com/apidocs/api/v1/transactions/docs.html
+## Automation test
 
 ### Write a test that does the following:
 1. Create a new account at  http://www.cleverbot.com/
