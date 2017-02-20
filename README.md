@@ -8,7 +8,8 @@
 4. Chat with the bot for a while.
 
 ### Requirements:
-1. You should use JavaScript + Selenium based testing framework. 2. You can use a browser of your choice.
+1. You should use JavaScript + Selenium based testing framework.
+2. You can use a browser of your choice.
 3. Test results should be stored in a human-readable format.
 
 ## What's included
