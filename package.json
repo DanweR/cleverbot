@@ -1,0 +1,29 @@
+{
+  "name": "test2",
+  "version": "1.0.0",
+  "description": "CleverBot test with Nightwatchjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanweR/taxamo.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "nightwatch": "^0.9.12"
+  },
+  "devDependencies": {
+    "nightwatch": "^0.9.12",
+    "nightwatch-html-reporter": "^2.0.0",
+    "selenium-download": "^2.0.9"
+  },
+  "scripts": {
+    "postinstall": "node nightwatch.conf.js",
+    "test": "nightwatch"
+  },
+  "keywords": [
+    "nightwatch",
+    "ui",
+    "automation"
+  ],
+  "author": "Volodymyr Borodavchuk",
+  "license": "ISC"
+}
