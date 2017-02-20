@@ -14,9 +14,10 @@
 
 ## What's included
 
-1. Cleverbot test based on Nightwatchjs framework
-2. Test runner: Nightwatchjs 
-3. Test reporter: nightwatchjs-html-reporter
+1. Cleverbot test based on Nightwatchjs framework using Page Objects methodology.
+2. Test runner: **Nightwatchjs**
+3. Test reporter: **nightwatchjs-html-reporter**
+4. Email: **temp-mail.org**
 
 ## Usage
 
